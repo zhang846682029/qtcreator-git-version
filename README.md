@@ -24,7 +24,7 @@ echo #endif // VERSION_H >>version.h
 
 ### 自定义构建步骤
 * 在“项目-构建步骤”里添加一个步骤，移动到qmake之前
-* ![image](http://note.youdao.com/favicon.ico)
+* ![image](https://github.com/zhang846682029/qtcreator-git-version/raw/master/build-process.PNG)
 
 * 可用的路径
 ```
